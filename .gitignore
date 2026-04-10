@@ -1,0 +1,8 @@
+# Rust build artifacts
+/target
+Cargo.lock
+
+# macOS junk
+.DS_Store
+
+*.log
